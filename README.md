@@ -32,7 +32,7 @@ There are several options to deploy EveryWAN. If you want to try EveryWAN and ar
 
 We have a public deployment of the management infrastructure (EveryGUI, Keystone, MariaDB, and EveryBosS) and control plane components (EveryEdgeOS and MongoDB) on a server in Tor Vergata.
 
-If you want to try EveryWAN, you can [download a ready-to-go virtual machine (VM) image]() and import the VM image in an type 2 hypervisor like VirtualBox or VMware. On the first boot a wizard will assist you in configuring EveryEdge.
+If you want to try EveryWAN, you can [download a ready-to-go virtual machine (VM) image](https://swift.cloud.garr.it/swift/v1/everywan/everyedge-vm.ova) and import the VM image in an type 2 hypervisor like VirtualBox or VMware. On the first boot a wizard will assist you in configuring EveryEdge.
 
 ### Option 2 - EveryEdge Docker container (not yet ready)
 
